@@ -1,0 +1,1 @@
+Credit Card Fraud Detection (Task-GNCIPL) uses EDA to study transaction data, highlight class imbalance, detect anomalies, and analyze feature patterns. The goal is to uncover fraud trends, identify key risk factors, and prepare a clean dataset for accurate model building.
